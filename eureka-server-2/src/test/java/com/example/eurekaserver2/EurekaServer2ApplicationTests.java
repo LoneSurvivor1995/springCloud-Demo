@@ -1,4 +1,4 @@
-//package com.example.eurekaserver;
+//package com.example.eurekaserver2;
 //
 //import org.junit.Test;
 //import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@
 //
 //@RunWith(SpringRunner.class)
 //@SpringBootTest
-//public class EurekaServerApplicationTests {
+//public class EurekaServer2ApplicationTests {
 //
 //	@Test
 //	public void contextLoads() {
